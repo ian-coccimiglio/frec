@@ -1,0 +1,1 @@
+## What is frec?frec is a CLI tool to **f**ind the **rec**orded information about an installedpackage or binary.
